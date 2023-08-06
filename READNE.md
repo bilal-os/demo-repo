@@ -4,4 +4,4 @@ Some description!
 
 ##Subheader
 
-Hello there! blah
+Hello there!
